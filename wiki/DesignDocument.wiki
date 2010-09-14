@@ -1,8 +1,8 @@
-#summary One-sentence summary of this page.
+#Why would I create this project.
 
 = Introduction =
 
-Add your content here.
+The most important reason is that I am not satisfied with the twitter applications.
 
 
 = Details =
